@@ -1,5 +1,8 @@
-### Oi, Meu Nome é Wenderson Oscar 👋
-
+<h2> Olá, Eu sou o Wenderson Oscar 👋 </h2>
+<h4>Sobre Mim</h4>
+🏫 Cursando Análise e Desenvolvimento de Sistema - IFPI <br>
+💻 Entusiasma em Sql, Linux <br>
+<h2> </h2>
 <div align="center">
   <a href="https://github.com/Wenderson-Oscar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wenderson-Oscar&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
