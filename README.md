@@ -1,7 +1,7 @@
 <h2> Olá, Eu sou o Wenderson Oscar 👋 </h2>
 <h4>Sobre Mim</h4>
 🏫 Cursando Análise e Desenvolvimento de Sistema - IFPI <br>
-💻 Entusiasma em Sql, Linux <br>
+💻 Entusiasma Linux <br>
 <h2> </h2>
 <div align="center">
   <a href="https://github.com/Wenderson-Oscar">
