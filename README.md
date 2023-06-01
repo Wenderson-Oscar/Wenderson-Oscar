@@ -5,8 +5,7 @@
         src="https://github-readme-stats.vercel.app/api?username=Wenderson-Oscar&show_icons=true&count_private=true&hide_border=true&title_color=00FF89&icon_color=00FF89&text_color=ffffff&bg_color=0d1117" />
     <img width="41%"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenderson-Oscar&layout=compact&hide_border=true&title_color=00FF89&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook" />
-    <img width="90%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=Wenderson-Oscar&bg_color=blue&color=ffffff&line=f0fff7&point=199a22&area=true" />
+   
 </div>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
